@@ -24,6 +24,7 @@
 		884212AC25017F220060BCA5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		884212AF25017F220060BCA5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		884212B125017F220060BCA5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		88C797E62504100700D3CE33 /* JGProject-JM-Wesierski copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "JGProject-JM-Wesierski copy-Info.plist"; path = "/Users/JM/Desktop/JGProject-JM-Wesierski/JGProject-JM-Wesierski copy-Info.plist"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +43,7 @@
 			children = (
 				884212A225017F1F0060BCA5 /* JGProject-JM-Wesierski */,
 				884212A125017F1F0060BCA5 /* Products */,
+				88C797E62504100700D3CE33 /* JGProject-JM-Wesierski copy-Info.plist */,
 			);
 			sourceTree = "<group>";
 		};
